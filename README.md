@@ -2,7 +2,6 @@
 
 Improvements to be made:
 <ul>
-<li>Fix the erase function</li>
 <li>Accept negative length values (but not negative coordinates)</li>
 <li>If a typo or mistake is made while writing input, prevent previous--intended--input from being erased (don't send the user back to the beginning of the method)</li>
 <li>Maybe even convert all input to a GUI</li>
